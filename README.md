@@ -72,10 +72,10 @@ Note: The MM-SADA paper incorrectly states the Adam optimiser is used. To reprod
 3. Results are saved to the models results directory e.g. ```EPIC_D2_D3_mmsada/results_D2_D3_0.001_0.9_joint/logs/results.list```
 
 
-##Acknowledgement
+## Acknowledgement
 Research supported by EPSRC LOCATE (EP/N033779/1) and EPSRC Doctoral Training Partnershipts (DTP). The authors acknowledge and value the use of the ESPRC funded Tier 2 facility, JADE.
 
-##Licence
+## Licence
 
 All files in this repository are copyright by us and published under the Creative Commons Attribution-NonCommerial 4.0 International License, found [here](https://creativecommons.org/licenses/by-nc/4.0/). This means that you must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. You may not use the material for commercial purposes.
 
