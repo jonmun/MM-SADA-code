@@ -74,7 +74,7 @@ dependencies:
   - xz=5.2.4=h14c3975_4
   - zlib=1.2.11=h7b6447c_3
   - pip:
-    - tensorflow-probability-gpu=0.4.0
+    - tensorflow-probability-gpu==0.4.0
     - contextlib2==0.5.5
     - dm-sonnet==1.27
     - h5py==2.9.0
